@@ -8,3 +8,4 @@
 - [Lab2](Lab2) — обработка пропусков, кодирование категориальных признаков, масштабирование данных (Titanic dataset)
 - [Lab3](Lab3) — метод ближайших соседей (KNN), подбор гиперпараметров (Diabetes dataset)
 - [Lab4](Lab4) — линейные модели, SVM и деревья решений (Penguins dataset)
+- [Lab5](Lab5) — ансамбли моделей, стекинг, MLP и МГУА (Medical Cost Insurance dataset)
