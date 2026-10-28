@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+gplearn
+gmdh
+jupyter
+nbformat
+python-docx
